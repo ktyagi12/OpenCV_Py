@@ -15,7 +15,7 @@ __Haar Cascade Algorithm:__ It is a machine learning object detection algorithm 
 The idea is passing these filters on the image, inspecting one portion (or window) at the time. Then, for each window, all the pixel intensities of, respectively, white and black portions are summed. Finally, the value obtained by subtracting those two summations is the value of the feature extracted. Ideally, a great value of a feature means it is relevant.
 
 
-![image](https://user-images.githubusercontent.com/38240162/75839916-dad9ce80-5dc1-11ea-89f4-efbd158b98fb.png
+![image](https://user-images.githubusercontent.com/38240162/75839916-dad9ce80-5dc1-11ea-89f4-efbd158b98fb.png)
 
 **TASKS:**
 
