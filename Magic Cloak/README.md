@@ -37,8 +37,8 @@ __Output__: Snapshot of the output video
 
 
 
-[Click here for code](https://github.com/ktyagi12/OpenCV/tree/master/Magic%20Cloak/code)
+[Click here for code](https://github.com/ktyagi12/OpenCV_Py/edit/master/Magic%20Cloak/code)
 
-[Click here for output](https://github.com/ktyagi12/OpenCV/tree/master/Magic%20Cloak/output)
+[Click here for output](https://github.com/ktyagi12/OpenCV_Py/edit/master/Magic%20Cloak/output)
 
 REFERENCES: https://github.com/asr-aditya/Harry-Potters-Invisible-cloak?files=1
